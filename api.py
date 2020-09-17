@@ -19,17 +19,33 @@ def root():
             <h1>Links to access each function</h1>
             <hr>
             <br><br>
-            <ul style="position: absolute; text-align: left; left: 45%;">
-                <li><a href="/soma?var1=3&var2=3">Soma</a></li>
-                <li><a href="/sub?var1=3&var2=3">Subtração</a></li>
-                <li><a href="/multi?var1=3&var2=3">Multiplicação</a></li>
-                <li><a href="/div?var1=3&var2=3">Divisão</a></li>
-                <li><a href="/raiz?var1=4">Raiz quadrada</a></li>
-                <li><a href="/pot?var1=2&var2=3">Potência</a></li>
-                <li><a href="/mediaa?var1=2&var2=2&var3=4&var4=4">Media Aritimetica</a></li>
-                <li><a href="/mediah?var1=2&var2=2&var3=4&var4=4">Media Harmonica</a></li>
-                <li><a href="/moda?var1=1&var2=2&var3=4&var4=3&var5=4">Moda</a></li>
-            </ul>
+            <div style="height: 300px;">
+                <ul style="position: absolute; text-align: left; left: 45%;">
+                    <li><a href="/soma?var1=3&var2=3">Soma</a></li>
+                    <li><a href="/sub?var1=3&var2=3">Subtração</a></li>
+                    <li><a href="/multi?var1=3&var2=3">Multiplicação</a></li>
+                    <li><a href="/div?var1=3&var2=3">Divisão</a></li>
+                    <li><a href="/raiz?var1=4">Raiz quadrada</a></li>
+                    <li><a href="/pot?var1=2&var2=3">Potência</a></li>
+                    <li><a href="/mediaa?var1=2&var2=2&var3=4&var4=4">Media Aritimetica</a></li>
+                    <li><a href="/mediah?var1=2&var2=2&var3=4&var4=4">Media Harmonica</a></li>
+                    <li><a href="/moda?var1=1&var2=2&var3=4&var4=3&var5=4">Moda</a></li>
+                </ul>
+            </div>
+            <hr>
+            <div style="height: 50px">
+                <table style="position: absolute; text-align: left; left: 45%;">
+                    <tr>
+                        <td>Eduardo Portes da Silva</td>
+                        <td>N16905-2</td>
+                    </tr>
+                    <tr>
+                        <td>Leonardo Maia de Mendonça</td>
+                        <td>N173DH-9</td>
+                    </tr>
+                </table>
+            </div>
+            <hr>
         </body>
     </html>
     """
